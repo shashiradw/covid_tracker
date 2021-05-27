@@ -1,0 +1,8 @@
+ .cases_by_country_table{
+     margin-top: 20px;
+ }
+
+ .table{
+     overflow: scroll;
+     height: 400px;
+ }
